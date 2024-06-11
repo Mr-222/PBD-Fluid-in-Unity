@@ -4,6 +4,9 @@
 
 /Library
 /Temp
-/obj/Debug
+/obj
 /Logs
 /.vs/PBD-Fluid-in-Unity/v16/TestStore/0
+.idea/
+*.csproj
+UserSettings/
